@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{61585F79-2B65-45CF-B877-545CF1105CDC}|Default">
+  <MonoDevelop.Ide.ItemProperties.BooksStore PreferredExecutionTarget="/Volumes/Macintosh HD/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BooksStore/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="BooksStore/Views/Books/Index.cshtml" Line="13" Column="17" />
+      <File FileName="BooksStore/Views/Books/Details.cshtml" Line="9" Column="19" />
+      <File FileName="BooksStore/Views/Shared/_Layout.cshtml" Line="25" Column="110" />
+      <File FileName="BooksStore/Controllers/HomeController.cs" Line="26" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BooksStore" expanded="True">
+            <Node name="BooksStore" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Books" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>n</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

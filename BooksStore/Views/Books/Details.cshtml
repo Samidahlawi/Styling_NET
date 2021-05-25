@@ -1,0 +1,9 @@
+﻿@{
+    var book = (BookModel)ViewData["Book"];
+}
+
+<h1>ID: @book.Id</h1>
+<h2>Title: @book.Title</h2>
+<h2>Author: @book.Author</h2>
+<h2>Price: @book.Price</h2>
+<img src="@book.Image" alt="@book.Image"/>
